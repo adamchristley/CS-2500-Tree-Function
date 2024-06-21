@@ -1,2 +1,2 @@
 # CS-2500-Tree-Function
-A levels function for a BST.
+This simple assignment required a functioning process for retrieving the height or amount of levels in a given Binary Search Tree. 
